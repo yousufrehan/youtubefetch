@@ -5,6 +5,9 @@
   npm i
 
 
+
+put api keys and mongodb cluster url in .env folder
+
 ### 1. Testing pagination
 
 Create a GET request to the following url:
